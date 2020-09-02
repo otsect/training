@@ -1,1 +1,1 @@
-# -trainings
+# trainings
